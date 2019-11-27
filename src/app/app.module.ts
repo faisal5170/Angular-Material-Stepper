@@ -7,7 +7,7 @@ import { MatStepperModule } from '@angular/material';
 
 @NgModule({
   declarations: [
-    AppComponent,    
+    AppComponent,
   ],
   imports: [
     BrowserModule,
